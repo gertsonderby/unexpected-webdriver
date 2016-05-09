@@ -1,6 +1,6 @@
 {
   "name": "unexpected-webdriver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "selenium-webdriver plugin for the unexpected assertion libary",
   "repository": "LiquidLabsGmbH/unexpected-webdriver",
   "author": "Felix Gnass <f.gnass@liquidlabs.de>",
